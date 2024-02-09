@@ -9,7 +9,6 @@
 
 .container{
     max-width: 100%;
-
 }
 
 .header__wrapper{
@@ -31,7 +30,6 @@
     src: url(./Roboto/Roboto-Regular.ttf) format(truetype);
 }
 
-
 .navbar h1{
     font-weight: 400;
     font-size: 27px;
@@ -52,7 +50,6 @@
 }
 
 section{
-
     height: 471px;
     background-image: url(./img/bg\ img.png);
     background-size: cover;
@@ -68,7 +65,6 @@ section{
     font-size: 38px;
     line-height: 44px;
     color:#fff;
-
 }
 .section-info p{
     width: 425px;
@@ -83,7 +79,6 @@ section{
     display: flex;
     align-items:center;
     gap: 37px;
-    
 }
 
 .section_link_one{
@@ -140,12 +135,9 @@ section{
     margin: 0px 350px;
 
 }
-
-
 .section-brends{
     height: 145px;
     background-color: #3E5C50;
-
 
 }
 
@@ -161,7 +153,6 @@ section{
     text-align: center;
     color:#333333;
     margin-top: 69px;
-
 }
 .desc-devise p{
     font-weight: 400;
@@ -170,7 +161,6 @@ section{
     text-align: center;
     color:#333333;
     margin-top: 10px;
-
 
 }
 
@@ -198,7 +188,6 @@ section{
     line-height: 30px;
     color:#333333;
     margin-top: 11px;
-
 }
 .desc-right p{
     width: 389px;
@@ -208,8 +197,6 @@ section{
     line-height: 22px;
     color:#333333;
     margin-top: 17px;
-
-
 
 }
 
@@ -226,7 +213,6 @@ section{
     display: flex;
     gap: 20px;
     align-items:center;
-
 
 }
 
@@ -254,7 +240,6 @@ section{
     color:#333333;
     margin-top: 16px;
 
-
 }
 
 .mobile-right{
@@ -267,7 +252,6 @@ section{
     margin-top: 81px;
     display: flex;
     gap: 20px;
-
 }
 
 .section-box h2{
@@ -276,9 +260,6 @@ section{
     line-height: 30px;
     color:#333333;
     margin-top: 11px;
-
-
-
 }
 
 .section-box p{
@@ -301,7 +282,6 @@ section{
     line-height: 36px;
     text-align: center;
     color:#333333;
-
 }
 
 .section-information{
@@ -311,8 +291,6 @@ section{
     text-align: center;
     color:#333333;
     margin-top: 10px;
-
-
 }
 
 .plans-boxes{
@@ -334,7 +312,6 @@ section{
     color:#2B2B2B;
     margin-top: 86px;
 
-
 }
 .plans-box span{
     color:#489FD9;
@@ -343,10 +320,7 @@ section{
     line-height: 22px;
     margin-top: 15px;
 
-
 }
-
-
 .section-ios{
     font-weight: 400;
     font-size: 14px;
@@ -383,7 +357,6 @@ section{
     margin-top: 20px;
     margin-left: 252px;
 
-
 }
 .plans-link a{
     display: block;
@@ -391,7 +364,6 @@ section{
     font-size: 15px;
     text-align: center;
     color:#489FD9;
-    
 
 }
 .section-about h3{
@@ -413,14 +385,11 @@ section{
     color:#333333;
     margin-top: 45px;
 }
-
     .section-about img{
         width: 70px;
         height: 70px;
         margin-top: 22px;
         margin-left: 435px;
-
-
     }
     .section-about h4{
         font-weight: 400;
